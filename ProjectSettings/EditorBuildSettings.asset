@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/inference.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: d107054cd2988df468e20b9a1e4f1460,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 936ca46c15d19004f935d9b42a1e5968,
+      type: 2}

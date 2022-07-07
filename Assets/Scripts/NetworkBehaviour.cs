@@ -1,4 +1,4 @@
-﻿// Adapted from the WinML MNIST sample and Rene Schulte's repo 
+﻿// Adapted from the WinML MNIST sample and Rene Schulte's repo
 // https://github.com/microsoft/Windows-Machine-Learning/tree/master/Samples/MNIST
 // https://github.com/reneschulte/WinMLExperiments/
 
@@ -70,7 +70,7 @@ public class NetworkBehaviour : MonoBehaviour
                     }
                 }
             });
-#endif 
+#endif
         }
         catch (Exception ex)
         {
